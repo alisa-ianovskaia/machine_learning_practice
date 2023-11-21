@@ -1,0 +1,39 @@
+[I 2023-11-21 12:25:14.097 ServerApp] Package notebook took 0.0000s to import
+[I 2023-11-21 12:25:14.113 ServerApp] Package jupyter_lsp took 0.0154s to import
+[W 2023-11-21 12:25:14.113 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-11-21 12:25:14.119 ServerApp] Package jupyter_server_terminals took 0.0058s to import
+[I 2023-11-21 12:25:14.119 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2023-11-21 12:25:14.146 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2023-11-21 12:25:14.146 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-11-21 12:25:14.147 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2023-11-21 12:25:14.148 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2023-11-21 12:25:14.150 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-11-21 12:25:14.152 ServerApp] notebook | extension was successfully linked.
+[I 2023-11-21 12:25:14.331 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-11-21 12:25:14.359 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-11-21 12:25:14.360 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2023-11-21 12:25:14.361 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2023-11-21 12:25:14.362 LabApp] JupyterLab extension loaded from /Users/alisayanovski/miniconda3/envs/dl/lib/python3.12/site-packages/jupyterlab
+[I 2023-11-21 12:25:14.362 LabApp] JupyterLab application directory is /Users/alisayanovski/miniconda3/envs/dl/share/jupyter/lab
+[I 2023-11-21 12:25:14.362 LabApp] Extension Manager is 'pypi'.
+[I 2023-11-21 12:25:14.363 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-11-21 12:25:14.364 ServerApp] notebook | extension was successfully loaded.
+[I 2023-11-21 12:25:14.365 ServerApp] The port 9992 is already in use, trying another port.
+[I 2023-11-21 12:25:14.365 ServerApp] The port 9993 is already in use, trying another port.
+[I 2023-11-21 12:25:14.366 ServerApp] Serving notebooks from local directory: /Users/alisayanovski/Documents/projects/ml_practice
+[I 2023-11-21 12:25:14.366 ServerApp] Jupyter Server 2.7.3 is running at:
+[I 2023-11-21 12:25:14.366 ServerApp] http://localhost:9994/tree?token=b36f26808655c9798dee4d9651a462ab81502d74d330bfbe
+[I 2023-11-21 12:25:14.366 ServerApp]     http://127.0.0.1:9994/tree?token=b36f26808655c9798dee4d9651a462ab81502d74d330bfbe
+[I 2023-11-21 12:25:14.366 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-11-21 12:25:14.370 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/alisayanovski/Library/Jupyter/runtime/jpserver-27335-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:9994/tree?token=b36f26808655c9798dee4d9651a462ab81502d74d330bfbe
+        http://127.0.0.1:9994/tree?token=b36f26808655c9798dee4d9651a462ab81502d74d330bfbe
+[I 2023-11-21 12:25:14.382 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
